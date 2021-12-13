@@ -412,7 +412,7 @@ body.noscroll {
 }
 
 .mv {
-  background-image: url(/img/AdobeStock_392281177.jpg);
+  background-image: url(AdobeStock_392281177.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -1242,7 +1242,7 @@ body.noscroll {
 }
 
 .footer {
-  background-image: url(/img/AdobeStock_463991116.jpg);
+  background-image: url(AdobeStock_463991116.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 65%;
